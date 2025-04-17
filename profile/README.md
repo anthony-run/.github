@@ -1,4 +1,4 @@
-# anthony.run
+# anthony • run
 
 Turn GitHub issues into working code — automatically.
 
